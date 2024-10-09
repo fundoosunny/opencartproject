@@ -1,7 +1,9 @@
-/target/
-/screenshots/
-/reports/
-/allure-report/
-/allure-results/
-/target/
+.classpath
+.project
+.settings/
+target/
+allure-report/
+allure-results/
+reports/
+screenshots/
 test-output/
